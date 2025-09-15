@@ -1,0 +1,13 @@
+{
+  "name": "sit223_8.1cpt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running placeholder tests\" && exit 0",
+    "coverage": "echo \"No coverage configured\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
